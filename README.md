@@ -1,4 +1,4 @@
-# Dizi_Ile_Harmonik_Ortalama
+# Harmonik_Ortalama
 
 www.patika.dev
 
